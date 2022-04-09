@@ -1,0 +1,99 @@
+.color-white{
+    color: #ffffff;
+}
+.color-gray--100{
+    color: rgba(152, 162, 179, 1);
+}
+.color-gray--200{ /*color-gray--100*/
+    color: rgb(102, 112, 133)
+}
+.color-gray--300{ /*color-gray--200*/
+    color: rgb(58, 64, 78);
+}
+.color-red{
+    color:rgba(142, 36, 36, 1);
+}
+
+.color-darkblue{
+    color: #101828;
+}
+
+.a-hover:hover{
+    color: rgb(36, 35, 35);
+}
+
+.p1{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.p2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.p3{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.p4{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+.p5{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.p6{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+.p7{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+.p8{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+.p9{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+.h1{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+}
+
+.h2{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+}
+
+.h3{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+}
+.h4{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+}

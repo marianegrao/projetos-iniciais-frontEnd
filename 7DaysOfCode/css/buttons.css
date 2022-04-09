@@ -1,0 +1,30 @@
+button{
+    all: unset;
+    box-sizing: border-box;
+}
+.btn-entrar__a{
+    padding: 10px 18px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+}
+.btn-entrar__a:hover{
+    color: rgb(36, 35, 35);
+}
+
+.btn-cadastrar__a{
+    background-color:rgb(142, 36, 36);
+    margin-left: 12px;
+    padding: 10px 18px;
+    border-radius: 8px;
+}
+.btn-cadastrar__a--grande{
+    background-color:rgb(142, 36, 36);
+    margin-left: 12px;
+    padding: 14px 20px;
+    border-radius: 8px;
+}
+.btn-cadastrar__a:hover{
+    background-color: rgba(142, 36, 36, 0.4);
+    color: rgb(142, 36, 36);
+    transition: transform 0.3s ease 0s, box-shadow 0.3s ease 0s;
+}
